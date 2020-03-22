@@ -1,3 +1,7 @@
+% vim
+# edit my cheatsheet file locally
+vim ~/.local/share/navi/cheats/Lemoners__MyNaviCheatSheet/all.cheat
+
 % navi
 
 # browse all navi cheatsheet repo
@@ -34,6 +38,3 @@ tmux killp -t <panel_id>
 
 # detach
 tmux detach
-
-
-$ panel_id: tmux list-panel --- --headers 1 --column 1
