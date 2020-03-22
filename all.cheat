@@ -1,0 +1,13 @@
+% navi
+
+# browse all navi chearsheet repo
+navi repo browse
+
+% tmux
+
+# create tmux session with default name
+tmux new
+
+# create tmux session
+tmux new -s <mysession>
+
